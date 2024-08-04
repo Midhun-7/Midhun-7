@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Midhun Muraleedharan.</h1>
-<h3 align="center">👨‍💻 B.Tech in CSE at College of Engineering Trivandrum 2024 passout </h3>
+<h3 align="center">👨‍💻 B.Tech in CSE at College of Engineering Trivandrum 2024 passout. </h3>
 <h3 align="center">📚 A Front-end web developer. </h3>
 <h3 align="center">📚 A Machine Learning Enthusiast. </h3>
 

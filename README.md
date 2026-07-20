@@ -54,16 +54,6 @@ I'm passionate about creating seamless user experiences while continuously learn
   />
 </div>
 
-<br>
-
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Midhun-7&theme=dark"
-    height="170"
-    alt="GitHub Streak"
-  />
-</div>
-
 ## 🤝 Connect With Me
 
 <p align="center">

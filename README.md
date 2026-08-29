@@ -42,9 +42,9 @@ I'm passionate about creating seamless user experiences while continuously learn
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Midhun-7&show_icons=true&theme=tokyonight&hide_border=true" height="148" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Midhun-7&layout=compact&theme=tokyonight&hide_border=true" height="148" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=Midhun-7&theme=tokyonight&hide_border=true" height="148" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Midhun-7&show_icons=true&theme=tokyonight&hide_border=true" height="120" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Midhun-7&layout=compact&theme=tokyonight&hide_border=true" height="120" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Midhun-7&theme=tokyonight&hide_border=true" height="120" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Connect With Me

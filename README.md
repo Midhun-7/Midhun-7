@@ -39,19 +39,13 @@ I'm passionate about creating seamless user experiences while continuously learn
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions" />
 </p>
 
-## 📈 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Midhun-7&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Midhun-7&layout=compact&theme=dark"
-    height="170"
-    alt="Top Languages"
-  />
+
+[![Midhun's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Midhun-7&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Midhun-7)
+[![Midhun's GitHub Streak](https://streak-stats.demolab.com/?user=Midhun-7&theme=tokyonight&hide_border=true)](https://github.com/Midhun-7)
+
 </div>
 
 ## 🤝 Connect With Me
